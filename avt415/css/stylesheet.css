@@ -1,0 +1,53 @@
+html {font-size: 100%;} /*16px*/
+
+body {
+  background-color: #EFBFE7;
+  color: #181354;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+
+h1{
+  font-family: 'Inter', monospace;
+  font-size: 5em;
+  color: #F54FA2;
+}
+h2 {
+  font-family: 'Inter', monospace;
+  font-size: 3em;
+  color: #F54FA2;
+}
+
+h4 {
+font-family: 'Inter', monospace;
+font-size: 1.5em;
+margin-top: 0;
+color: #F54FA2;
+
+}
+
+dt {
+  font-family: 'Inter', monospace;
+	font-size: 2em;
+  color: #F54FA2;
+}
+
+li {
+  font-family: 'Inter', monospace;
+  font-size: 1em;
+  color: black;
+}
+dd {
+  font-family: 'Inter', monospace;
+  font-size: 1em;
+  color: black;
+}
+
+a {
+color: black;
+text-decoration: none;
+}
+
+a:hover {
+  color: #F54FA2;
+}

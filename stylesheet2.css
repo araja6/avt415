@@ -1,0 +1,48 @@
+html {font-size: 100%;} /*16px*/
+
+body {
+  size: 1440px;
+  background-color: #FAFAF0;
+  color: #797978;
+  margin: 0;
+  padding: 50px;
+  line-height: 1.75;
+
+footer {
+  font-family: 'Unbounded', sans-serif;
+  font-weight: : 300;
+  font-size: 1em;
+  color: #000000;
+}
+
+h1{
+  font-family: 'Unbounded', sans-serif;
+  font-weight: 700;
+  font-size: 5em;
+  color: #1746C6;
+}
+
+h2 {
+  font-family: 'Unbounded', sans-serif;
+  font-weight: 700;
+  font-size: 3em;
+  color: #A7A6F7;
+}
+p {
+  font-family: 'Unbounded', sans-serif;
+  font-style: 300;
+  font-size: 1em;
+  color: #000000;
+}
+.header{
+  font-size: 0.5em;
+}
+
+a {
+color: #000000;
+text-decoration: none;
+}
+
+a:hover {
+  color: #088411;
+}
